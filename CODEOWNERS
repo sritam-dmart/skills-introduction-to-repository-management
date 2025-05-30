@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @sritam-dmart
+/src/backend/database.py      @sritam-dmart
+/src/backend/routers/auth.py  @sritam-dmart
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @sritam-dmart
